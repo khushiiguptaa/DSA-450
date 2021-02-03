@@ -1,3 +1,4 @@
+//You only need to complete the function reverseWord() that takes s as parameter and returns the reversed string.
 string reverseWord(string str)
 {
     int start = 0;
